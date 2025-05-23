@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://soraos.github.io/website/soraos_wicon.png" alt="Logo" width="200" />
+  <img src="https://soraos.github.io/website/soraos_wbg.png" alt="Logo" width="200" />
   <h1>SoraOS</h1>
 </div>
 

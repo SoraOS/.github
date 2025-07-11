@@ -3,7 +3,7 @@
   <h1>SoraOS</h1>
 </div>
 
-This is the **SoraOS Project**, a operating system based on Arch Linux, with a home for everyone.
+This is the **SoraOS Project**, a completely independent operating system, with a home for everyone.
 
 It's intuitive UI makes it easy to use and consumer-friendly.
 
